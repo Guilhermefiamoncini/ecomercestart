@@ -1,0 +1,20 @@
+{
+  "id": "almofada",
+  "nome": "Almofada",
+  "preco": 35,
+  "descricao": "Almofada sublimável com tamanho de 40X40. Também disponível em linho",
+  "estoque": 15,
+  "img": "./api/produtos/almofada/almofada-foto.jpeg",
+  "reviews": [
+    {
+      "nome": "Adrian",
+      "estrelas": 5,
+      "descricao": "Bem legal. Curti o material."
+    },
+    {
+      "nome": "Alessandra",
+      "estrelas": 5,
+      "descricao": "Bom atendimento e uma linda personalização."
+    }
+  ]
+}

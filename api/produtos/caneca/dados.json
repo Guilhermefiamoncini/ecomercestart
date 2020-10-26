@@ -1,0 +1,25 @@
+  {
+    "id": "caneca",
+    "nome": "Caneca Mágica com Glitter",
+    "preco": 50,
+    "descricao": "Caneca de cerâmica, com efeito reativo ao calor e possui partículas de glitter. Disponível nas cores azul e preto.",
+    "estoque": 10,
+    "img": "./api/produtos/caneca/caneca-foto.jpeg",
+    "reviews": [
+      {
+        "nome": "Taylor",
+        "estrelas": 5,
+        "descricao": "Produto excelente, valeu muito à pena"
+      },
+      {
+        "nome": "Amanda",
+        "estrelas": 4,
+        "descricao": "Produto bom, pena que não dá para colocar no microondas."
+      }, 
+      {
+        "nome": "Joana",
+        "estrelas": 5,
+        "descricao": "Muito muito bonita. Recomendo"
+      }
+    ]
+  }

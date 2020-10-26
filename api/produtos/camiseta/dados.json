@@ -1,0 +1,20 @@
+{
+  "id": "camiseta",
+  "nome": "Camiseta",
+  "preco": 40,
+  "descricao": "Camiseta Sublimável 100% Algodão.",
+  "estoque": 20,
+  "img": "./api/produtos/camiseta/camiseta-foto.jpeg",
+  "reviews": [
+    {
+      "nome": "Eduardo",
+      "estrelas": 5,
+      "descricao": "Bem bonita, e não desbotou nada."
+    },
+    {
+      "nome": "Marcia",
+      "estrelas": 4,
+      "descricao": "Gostei, apesar do preço. Valeu à pena."
+    }
+  ]
+}

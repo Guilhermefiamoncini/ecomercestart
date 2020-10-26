@@ -1,0 +1,20 @@
+{
+  "id": "termico",
+  "nome": "Caneca Térmica",
+  "preco": 45,
+  "descricao": "Caneca térmica de inox sublimável, suporta 475ml.",
+  "estoque": 30,
+  "img": "./api/produtos/termico/termico-foto.jpeg",
+  "reviews": [
+    {
+      "nome": "Flávio",
+      "estrelas": 5,
+      "descricao": "Segura bem a temperatura do líquido, gostei muito."
+    },
+    {
+      "nome": "Cristian",
+      "estrelas": 3,
+      "descricao": "Bom, mas o meu veio com a estampa de ponta cabeça."
+    }
+  ]
+}

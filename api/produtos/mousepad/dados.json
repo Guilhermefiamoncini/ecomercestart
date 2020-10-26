@@ -1,0 +1,20 @@
+{
+  "id": "mousepad",
+  "nome": "Mouse Pad",
+  "preco": 22,
+  "descricao": "Mouse Pad sublimável com apoio, 25cmX25cm.",
+  "estoque": 15,
+  "img": "./api/produtos/mousepad/mousepad-foto.jpeg",
+  "reviews": [
+    {
+      "nome": "Gustavo",
+      "estrelas": 5,
+      "descricao": "Gostei muito do mousepad, confortável."
+    },
+    {
+      "nome": "Jorge André",
+      "estrelas": 4,
+      "descricao": "Gostei, é confortável, porém, demorou um pouco para chegar."
+    }
+  ]
+}

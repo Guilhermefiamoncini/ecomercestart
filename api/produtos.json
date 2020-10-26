@@ -1,0 +1,32 @@
+[
+  {
+    "id": "almofada",
+    "nome": "Almofada",
+    "preco": 35,
+    "img": "./api/produtos/almofada/almofada.jpeg"
+  }, 
+    {
+      "id": "camiseta",
+      "nome": "Camiseta",
+      "preco": 40,
+      "img": "./api/produtos/camiseta/camiseta.jpeg"
+    },
+    {
+      "id": "caneca",
+      "nome": "Caneca Mágica com Glitter",
+      "preco": 50,
+      "img": "./api/produtos/caneca/caneca.jpeg"
+    }, 
+    {
+      "id": "termico",
+      "nome": "Caneca Térmica",
+      "preco": 45,
+      "img": "./api/produtos/termico/termico.jpeg"
+    },
+    {
+      "id": "mousepad",
+      "nome": "Mouse Pad",
+      "preco": 22,
+      "img": "./api/produtos/mousepad/mousepad.jpeg"
+    }
+]
